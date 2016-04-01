@@ -15,7 +15,7 @@
 </addon>
 
 
-<addon id="script.dnatvguide" name="[COLOR lightblue]dnaTV[/COLOR] [COLOR lightwhite]Guide[/COLOR]" version="1.0.0" provider-name="Team DNA">
+<addon id="script.dnatvguide" name="[COLOR lightblue]dnaTV[/COLOR] [COLOR lightwhite]Guide[/COLOR]" version="0.0.50" provider-name="dna">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>executable</provides>
 	</extension>
@@ -30,7 +30,7 @@
 </addon>
 
 
-<addon id="plugin.video.dnatv" name="[B][I][COLOR red]DNA TV[/COLOR] [COLOR lime]PRO Beta[/COLOR][/I][/B]" version="3.5.0" provider-name="Team DNA">
+<addon id="plugin.video.dnatv" name="[B][I][COLOR red]DNA TV[/COLOR] [COLOR lime]PRO Beta[/COLOR][/I][/B]" version="3.5.1" provider-name="Team DNA">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.addon.common" version="2.0.0" />
