@@ -1,3 +1,6 @@
+3.5.1
+Minor Bug Fix
+
 3.5.0 Pro Beta
 Menu Redesign
 Extra Category Added
